@@ -23,7 +23,7 @@ When your infra is so solid, even AWS gives you a side-eye of respect.
 
 ## 🧩 Microservices? More Like Micro-slay
 
-![Microservices GIF](https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
+![Microservices GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGplYXI0czhmbms1eWR4cW5hNWxxYzdmY2ZwMXliYnAzbzluaTQ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wPyMMQ1NWpmfe/giphy.gif)
 
 Each service does its own thing, but together they’re like a Bollywood dance crew—chaotic, but somehow it works.
 
