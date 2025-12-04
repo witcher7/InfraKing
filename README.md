@@ -15,7 +15,8 @@ Welcome to the kingdom where infra is the new swag. If you're looking for a back
 
 ## 🎯 Infra King Mode Activated
 
-![Infra King GIF](https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
+![Infra King GIF]
+(https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
 
 When your infra is so solid, even AWS gives you a side-eye of respect.  
 
@@ -23,7 +24,8 @@ When your infra is so solid, even AWS gives you a side-eye of respect.
 
 ## 🧩 Microservices? More Like Micro-slay
 
-![Microservices GIF](https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
+![Microservices GIF]
+(https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
 
 Each service does its own thing, but together they’re like a Bollywood dance crew—chaotic, but somehow it works.
 
@@ -64,4 +66,5 @@ Wanna join the Infra King squad? Just open a PR, and let’s make this kingdom e
 
 This is the repo where infra dreams come true, microservices slay, and DevOps is the main character. Welcome to the chaos. Welcome to the glory.  
 
-![King GIF](https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
+![King GIF]
+(https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
