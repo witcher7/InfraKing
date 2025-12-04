@@ -64,4 +64,4 @@ Wanna join the Infra King squad? Just open a PR, and let’s make this kingdom e
 
 This is the repo where infra dreams come true, microservices slay, and DevOps is the main character. Welcome to the chaos. Welcome to the glory.  
 
-![King GIF](https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
+![King GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN5Zm9sNmw3Zno2ZGhyMWd5NHU4dXcwaXdmNWE4cGNyazZpZWt5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLljKzBZ2uPfYDpsNV/giphy.gif)
