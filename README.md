@@ -15,7 +15,7 @@ Welcome to the kingdom where infra is the new swag. If you're looking for a back
 
 ## 🎯 Infra King Mode Activated
 
-![Infra King GIF](https://media.giphy.com/media/3o7TKsQ8UQ4l8g5C8g/giphy.gif)
+![Infra King GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJwczJiZTFxMGdkMHJ2aDdmb3ZvdHRnMnByaW92NHZoaGpzczFveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPyjid3UoPUd2MBtav/giphy.gif)
 
 When your infra is so solid, even AWS gives you a side-eye of respect.  
 
